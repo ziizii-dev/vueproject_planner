@@ -1,0 +1,219 @@
+{
+  "projects": [
+    {
+      "title": "pooo",
+      "detail": "eee",
+      "complete": false,
+      "id": 1
+    },
+    {
+      "title": "oop",
+      "detail": "oop",
+      "complete": true,
+      "id": 2
+    },
+    {
+      "title": "js",
+      "detail": "js",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "node",
+      "detail": "node",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "testing",
+      "detail": "testing",
+      "complete": false,
+      "id": 5
+    }
+  ],
+  "register": [
+    {
+      "id": "1",
+      "name": "joe",
+      "email": "joe@gmail.com",
+      "role": [
+        {
+          "1": "developer"
+        },
+        {
+          "2": "designer"
+        }
+      ],
+      "accept": false,
+      "color": [
+        "red",
+        "green",
+        "blue"
+      ],
+      "skill": [
+        "js",
+        "php",
+        "nodejs"
+      ]
+    },
+    {
+      "email": "",
+      "password": "zmtx7%_]R87_qz$",
+      "role": "",
+      "accept": false,
+      "color": [],
+      "skill": [],
+      "id": "IJVf2X2"
+    },
+    {
+      "email": "",
+      "password": "zmtx7%_]R87_qz$",
+      "role": "",
+      "accept": false,
+      "color": [],
+      "skill": [],
+      "id": "0APJ0dq"
+    },
+    {
+      "email": "",
+      "password": "zmtx7%_]R87_qz$",
+      "role": "",
+      "accept": false,
+      "color": [],
+      "skill": [],
+      "id": "RhDHApE"
+    },
+    {
+      "email": "",
+      "password": "zmtx7%_]R87_qz$",
+      "role": "",
+      "accept": false,
+      "color": [],
+      "skill": [],
+      "id": "dsw0slK"
+    },
+    {
+      "email": "",
+      "password": "zmtx7%_]R87_qz$",
+      "role": "",
+      "accept": false,
+      "color": [],
+      "skill": [],
+      "id": "gDSUTTk"
+    },
+    {
+      "email": "",
+      "password": "zmtx7%_]R87_qz$",
+      "role": "",
+      "accept": false,
+      "color": [],
+      "skill": [],
+      "id": "wlltNqh"
+    },
+    {
+      "email": "",
+      "password": "zmtx7%_]R87_qz$",
+      "role": "",
+      "accept": false,
+      "color": [],
+      "skill": [],
+      "id": "3q0pSRx"
+    },
+    {
+      "email": "",
+      "password": "zmtx7%_]R87_qz$",
+      "role": "",
+      "accept": false,
+      "color": [],
+      "skill": [],
+      "id": "ESxMlAE"
+    },
+    {
+      "email": "",
+      "password": "zmtx7%_]R87_qz$",
+      "role": "",
+      "accept": false,
+      "color": [],
+      "skill": [],
+      "id": "RNFdsyu"
+    },
+    {
+      "email": "",
+      "password": "zmtx7%_]R87_qz$",
+      "role": "",
+      "accept": false,
+      "color": [],
+      "skill": [],
+      "id": "3nPPX8x"
+    },
+    {
+      "name": "kalvin",
+      "email": "Hello",
+      "password": "user123@",
+      "role": "developer",
+      "accept": true,
+      "color": [
+        "red",
+        "white",
+        "green"
+      ],
+      "skill": [
+        "js",
+        "php"
+      ],
+      "id": "z0gJ5_P"
+    },
+    {
+      "name": "Ronaldo",
+      "email": "ronaldo@gmail.com",
+      "password": "user123@",
+      "role": "developer",
+      "accept": true,
+      "color": [
+        "red",
+        "white",
+        "green",
+        "blue"
+      ],
+      "skill": [
+        "php",
+        "laravel",
+        "js",
+        "nodejs"
+      ],
+      "id": "Mlrgzqo"
+    },
+    {
+      "name": "hello",
+      "email": "hello@gmail.com",
+      "password": "user123@",
+      "role": "designer",
+      "accept": true,
+      "color": [
+        "red"
+      ],
+      "skill": [
+        "OK"
+      ],
+      "id": "3rMZiTQ"
+    },
+    {
+      "name": "Joe",
+      "email": "joe@gmail.com",
+      "password": "user@",
+      "role": "developer",
+      "accept": true,
+      "color": [
+        "red",
+        "white",
+        "green",
+        "blue"
+      ],
+      "skill": [
+        "js",
+        "php"
+      ],
+      "id": "9ubekub"
+    }
+  ]
+}
